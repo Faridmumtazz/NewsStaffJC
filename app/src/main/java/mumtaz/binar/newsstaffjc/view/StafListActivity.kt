@@ -127,7 +127,7 @@ fun DefaultPreview3() {
                 "email",
                 "1",
                 "http://placeimg.com/640/480",
-                "Dwi Satria Patra"
+                "Ana"
             )
         )
     }
