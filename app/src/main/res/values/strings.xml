@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">NewsStaffJC</string>
+    <string name="title_activity_detail">DetailActivity</string>
+    <string name="title_activity_staf_list">StafListActivity</string>
+</resources>
